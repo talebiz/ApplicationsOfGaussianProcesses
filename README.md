@@ -3,8 +3,8 @@
 Final project for a Stochastic Processes course, covering Gaussian Process (GP) priors, GP regression, Bayesian hyperparameter inference via Metropolis–Hastings MCMC, and continuous-time sampling via Langevin dynamics.
 
 **Authors**
-- Mohammad Parsa Talebizadeh (Student ID: 402100475)
-- Seyed Hossein Ahmadi Mousavi (Student ID: 402100334)
+- Mohammad Parsa Talebizadeh
+- Seyed Hossein Ahmadi Mousavi
 
 **Course**: Stochastic Processes — Instructor: Dr. Peyvandi
 
